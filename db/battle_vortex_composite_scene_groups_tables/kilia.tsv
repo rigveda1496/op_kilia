@@ -1,0 +1,3 @@
+group_id	align_orientation_to_target_unit	orient_when_ground_targeting
+#battle_vortex_composite_scene_groups_tables;1;db/battle_vortex_composite_scene_groups_tables/kilia		
+wh3_main_spell_cataclysm_storm_of_renewal	false	true

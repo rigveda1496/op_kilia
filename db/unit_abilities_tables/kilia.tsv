@@ -1,0 +1,10 @@
+key	requires_effect_enabling	icon_name	overpower_option	type	video	uniqueness	is_unit_upgrade	is_hidden_in_ui	source_type	superseded_abilities_set	is_hidden_in_ui_for_enemy
+#unit_abilities_tables;17;db/unit_abilities_tables/kilia											
+kilia_ability_avatar	false	wh2_main_spell_high_magic_apotheosis		wh_type_augment		wh_main_anc_group_unique	false	false	character		false
+kilia_ability_reset	false	wh2_main_spell_high_magic_apotheosis		wh_type_regeneration		wh_main_anc_group_unique	false	true	character		true
+kilia_explosion	false	wh_dlc05_spell_shadow_pit_of_shades		wh_type_vortex		wh_main_anc_group_unique	false	false	character		false
+kilia_heal	false	wh3_main_cataclysm_life_storm_of_renewal		wh_type_area_of_regeneration	spell_previews/cataclysm/wh3_main_cataclysm_storm_of_renewal	wh_main_anc_group_unique	false	false	cataclysm		false
+kilia_chronos	false	wh3_main_cataclysm_light_time_amok		wh_type_area_of_augments	spell_previews/cataclysm/wh3_main_cataclysm_time_amok	wh_main_anc_group_unique	false	false	cataclysm		false
+kilia_summon_dragon	false	wh3_main_spell_yang_dragons_breath		wh_type_summon_unit		wh_main_anc_group_unique	false	false	character		false
+kilia_dragon_form	false	wh3_main_lord_abilities_iron_dragon_dragon_form		wh_type_transform		wh_main_anc_group_unique	false	false	active		false
+kilia_human_form	false	wh3_main_lord_abilities_iron_dragon_human_form		wh_type_transform		wh_main_anc_group_unique	false	false	active		false

@@ -1,0 +1,7 @@
+key	campaign_key	character_skill_key	faction_key	indent	tier	subculture	points_on_creation	required_num_parents	visible_in_ui
+#character_skill_nodes_tables;6;db/character_skill_nodes_tables/kilia									
+kilia_skill_node		kilia_skill		0	1		1	0	true
+kilia_explosion		kilia_explosion		0	0		1	0	true
+kilia_heal		kilia_heal		0	2		1	0	true
+kilia_chronos		kilia_chronos		0	3		1	0	true
+kilia_summon_dragon		kilia_summon_dragon		0	4		1	0	true

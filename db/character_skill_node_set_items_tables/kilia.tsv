@@ -1,0 +1,7 @@
+set	item	mod_disabled
+#character_skill_node_set_items_tables;0;db/character_skill_node_set_items_tables/kilia		
+kilia_skill_node_set	kilia_skill_node	false
+kilia_skill_node_set	kilia_explosion	false
+kilia_skill_node_set	kilia_heal	false
+kilia_skill_node_set	kilia_chronos	false
+kilia_skill_node_set	kilia_summon_dragon	false

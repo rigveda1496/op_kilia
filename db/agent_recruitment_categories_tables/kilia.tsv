@@ -1,0 +1,4 @@
+key	order	icon_file_path	show_in_recruitment	counts_towards_caps_when_off_the_map
+#agent_recruitment_categories_tables;2;db/agent_recruitment_categories_tables/kilia				
+kilia_op	1000000	ui/portraits/units/no_culture/kilia_human_0.png	true	true
+kilia_dragon_op	1000001	ui/portraits/units/no_culture/kilia_human_0.png	true	true

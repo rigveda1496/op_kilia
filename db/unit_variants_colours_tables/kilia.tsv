@@ -1,0 +1,3 @@
+key	faction	soldier_type	unit_variant	subculture	primary_colour_hex	secondary_colour_hex	tertiary_colour_hex
+#unit_variants_colours_tables;3;db/unit_variants_colours_tables/kilia							
+1100000000		soldier	kilia		FFFFFF	0000FF	FFFFFF

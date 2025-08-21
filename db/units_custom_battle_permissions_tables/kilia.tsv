@@ -1,0 +1,26 @@
+faction	general_unit	unit	siege_unit_attacker	siege_unit_defender	general_portrait	general_uniform	set_piece_character	campaign_exclusive	armory_item_set	supports_upgrades
+#units_custom_battle_permissions_tables;11;db/units_custom_battle_permissions_tables/kilia										
+wh2_dlc09_tmb_tomb_kings	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh2_dlc11_cst_vampire_coast	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh2_main_def_dark_elves	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh2_main_hef_high_elves	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh2_main_lzd_lizardmen	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh2_main_skv_skaven	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh3_dlc23_chd_legion_of_azgorh	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh3_main_cth_cathay_mp	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh3_main_dae_daemon_prince	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh3_main_kho_khorne	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh3_main_ksl_kislev	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh3_main_nur_nurgle	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh3_main_ogr_ogre_kingdoms	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh3_main_sla_slaanesh	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh3_main_tze_tzeentch	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh_dlc03_bst_beastmen	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh_dlc05_wef_wood_elves	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh_dlc08_nor_norsca	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh_main_brt_bretonnia	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh_main_chs_chaos	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh_main_dwf_dwarfs	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh_main_emp_empire	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh_main_grn_greenskins	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false
+wh_main_vmp_vampire_counts	true	kilia	true	true	ui/portraits/portholes/no_culture/kilia_human_0.png	kilia_uniform		false		false

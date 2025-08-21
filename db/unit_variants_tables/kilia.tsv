@@ -1,0 +1,4 @@
+faction	unit	name	variant	unit_card
+#unit_variants_tables;5;db/unit_variants_tables/kilia				
+	kilia	kilia	kilia_variant	kilia
+	kilia_dragon	kilia_dragon	kilia_dragon_variant	kilia_dragon

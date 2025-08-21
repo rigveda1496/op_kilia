@@ -1,0 +1,3 @@
+id	composite_scene	group_id	trigger_delay	freeze_position	freeze_rotation
+#battle_vortex_composite_scene_group_to_scenes_tables;0;db/battle_vortex_composite_scene_group_to_scenes_tables/kilia					
+799108020	composite_scene\spells_and_abilities\wh3_main_storm_of_renewal.csc	wh3_main_spell_cataclysm_storm_of_renewal	0.0000	false	false

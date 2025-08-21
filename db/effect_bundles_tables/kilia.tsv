@@ -1,0 +1,6 @@
+key	localised_description	localised_title	bundle_target	priority	ui_icon	is_global_effect	show_in_3d_space	owner_only
+#effect_bundles_tables;4;db/effect_bundles_tables/kilia								
+kilia_explosion			character	1		true	false	true
+kilia_heal			character	1		true	false	true
+kilia_chronos			character	1		true	false	true
+kilia_summon_dragon			character	1		true	false	true

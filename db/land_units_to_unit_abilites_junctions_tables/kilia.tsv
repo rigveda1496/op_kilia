@@ -1,0 +1,10 @@
+ability	land_unit
+#land_units_to_unit_abilites_junctions_tables;0;db/land_units_to_unit_abilites_junctions_tables/kilia	
+kilia_ability_avatar	kilia
+kilia_ability_reset	kilia
+kilia_explosion	kilia
+kilia_heal	kilia
+kilia_chronos	kilia
+kilia_summon_dragon	kilia
+kilia_dragon_form	kilia
+kilia_human_form	kilia_dragon

@@ -1,0 +1,4 @@
+variant_name	tech_folder	variant_filename	low_poly_filename	mount_scale	scale	scale_variation	super_low_poly_filename
+#variants_tables;6;db/variants_tables/kilia							
+kilia_variant		kilia		1.0000	1.2000	0.0000	
+kilia_dragon_variant		kilia_dragon		1.0000	20.0000	0.0000	

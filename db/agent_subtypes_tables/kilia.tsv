@@ -1,0 +1,4 @@
+key	auto_generate	is_caster	small_icon	associated_unit_override	audio_voiceover_actor_group	show_in_ui	cap	has_female_name	can_gain_xp	loyalty_is_applicable	contributes_to_agent_cap	recruitment_category	magic_lore	names_group	can_be_loaned	recruitable	saving_settings	audio_vo_culture_override	spam_click_vo_enabled	can_equip_ancillaries	cost	recruitment_button_active_icon_path	recruitment_button_background_icon_path
+#agent_subtypes_tables;2;db/agent_subtypes_tables/kilia																							
+kilia	true	true		kilia	kilia_vo	true	-1	false	false	false	true	kilia_op			false	true	cannot_be_saved_loaded		false	false	0		
+kilia_dragon	true	true	ui/campaign ui/agents/paladin.png	kilia_dragon	kilia_vo	true	-1	false	false	false	true	kilia_dragon_op			false	true	can_be_saved_loaded		false	false	0		

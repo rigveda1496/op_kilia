@@ -1,0 +1,12 @@
+attribute	attribute_group
+#unit_attributes_to_groups_junctions_tables;2;db/unit_attributes_to_groups_junctions_tables/kilia	
+causes_fear	kilia
+causes_terror	kilia
+fatigue_immune	kilia
+ignore_imbue_contact_effects_enemy	kilia
+immune_to_psychology	kilia
+strider	kilia
+unbreakable	kilia
+wallbreaker	kilia
+invulnerable	kilia
+cannot_die	kilia

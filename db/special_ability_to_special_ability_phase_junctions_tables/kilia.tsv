@@ -1,0 +1,8 @@
+order	special_ability	target_self	target_friends	target_enemies	phase
+#special_ability_to_special_ability_phase_junctions_tables;2;db/special_ability_to_special_ability_phase_junctions_tables/kilia					
+1	kilia_ability_avatar	false	false	true	kilia_phase_avatar
+1	kilia_ability_reset	true	false	false	kilia_phase_reset
+1	kilia_explosion	false	true	true	kilia_explosion_phase
+1	kilia_heal	true	true	false	kilia_heal_phase
+1	kilia_chronos	true	true	true	kilia_chronos_phase
+1	kilia_summon_dragon	true	false	false	kilia_summon_dragon_phase

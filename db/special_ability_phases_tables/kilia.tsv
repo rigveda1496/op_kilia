@@ -1,0 +1,8 @@
+id	duration	effect_type	requested_stance	cant_move	freeze_fatigue	fatigue_change_ratio	inspiration_aura_range_mod	ability_recharge_change	hp_change_frequency	damage_amount	max_damaged_entities	resurrect	mana_regen_mod	mana_max_depletion_mod	imbue_magical	imbue_ignition	imbue_contact	phase_display	phase_audio	is_hidden_in_ui	affects_allies	affects_enemies	replenish_ammo	composite_scene_group	spreading	freeze_recharge	heal_amount	barrier_heal_amount	remove_magical	execute_ratio
+#special_ability_phases_tables;44;db/special_ability_phases_tables/kilia																														
+kilia_phase_avatar	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	-1	false	0.0000	0.0000	false	0				true	false	true	0.0000			false	0.0000	0.0000	false	0.0000
+kilia_phase_reset	0.1000	positive		false	false	-1.0000	0.0000	-1000.0000	0.0000	0	-1	false	0.0000	0.0000	false	0				true	false	false	0.0000			false	0.0000	0.0000	false	0.0000
+kilia_explosion_phase	30.0000	positive		false	false	0.0000	0.0000	0.0000	1.0000	100000	-1	false	0.0000	0.0000	false	0				false	true	true	0.0000			false	0.0000	0.0000	false	100.0000
+kilia_heal_phase	30.0000	positive		false	false	0.0000	0.0000	0.0000	1.0000	0	-1	true	0.0000	0.0000	false	0		wh_dlc05_spell_life_earth_blood		false	true	false	0.0000			false	10000.0000	1000.0000	false	0.0000
+kilia_chronos_phase	30.0000	positive		true	true	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0		wh3_main_light_time_amok		false	true	true	0.0000			false	0.0000	0.0000	false	0.0000
+kilia_summon_dragon_phase	-1.0000	positive		false	false	0.0000	0.0000	0.0000	0.0000	0	0	false	0.0000	0.0000	false	0				false	true	false	0.0000			false	0.0000	0.0000	false	0.0000

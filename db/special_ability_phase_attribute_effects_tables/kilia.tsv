@@ -1,0 +1,7 @@
+attribute	phase	attribute_type
+#special_ability_phase_attribute_effects_tables;1;db/special_ability_phase_attribute_effects_tables/kilia		
+invulnerable	kilia_phase_avatar	negative
+cant_run	kilia_phase_reset	negative
+melee_disabled	kilia_phase_reset	negative
+rampage	kilia_phase_reset	negative
+silenced	kilia_phase_reset	negative

@@ -1,0 +1,6 @@
+effect	icon	priority	icon_negative	category	is_positive_value_good
+#effects_tables;0;db/effects_tables/kilia					
+wh_main_effect_character_ability_enable_kilia_explosion	general_ability.png	0	general_ability.png	battle	true
+wh_main_effect_character_ability_enable_kilia_heal	general_ability.png	0	general_ability.png	battle	true
+wh_main_effect_character_ability_enable_kilia_chronos	general_ability.png	0	general_ability.png	battle	true
+wh_main_effect_character_ability_enable_kilia_summon_dragon	general_ability.png	0	general_ability.png	campaign	true

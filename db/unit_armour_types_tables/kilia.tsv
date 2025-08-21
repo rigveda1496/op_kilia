@@ -1,0 +1,4 @@
+key	armour_value	audio_type
+#unit_armour_types_tables;6;db/unit_armour_types_tables/kilia		
+kilia_armour	1000	plate
+kilia_armour_dragon	1000	plate
