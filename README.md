@@ -146,7 +146,7 @@ variantmeshes
 
 ##  ライセンス
 
-このMODはポートフォリオ用に作成されています。全てのアセットはそれぞれの所有者に帰属します。
+このMODは個人で楽しむために作成されています。全てのアセットはそれぞれの所有者に帰属します。
 - Creative Assembly　
 - SEGA
 - https://steamcommunity.com/sharedfiles/filedetails/?id=2826725184&searchtext=OP+legendary+lord
